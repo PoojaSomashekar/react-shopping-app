@@ -1,0 +1,36 @@
+.category_container {
+    display: flex;
+    width: 100%;
+    /* z-index: 1; */
+}
+
+.category_container ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    flex-wrap: wrap;
+}
+
+.category_container ul li {
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.category_container ul li img {
+    width: 18rem;
+    height: 18rem;
+    border-radius: 13rem;
+    margin: 1rem;
+
+}
+
+.category_container ul li h3 {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+

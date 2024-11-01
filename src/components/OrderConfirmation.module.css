@@ -1,0 +1,35 @@
+.order_confirmation {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6rem;
+}
+
+.order_confirmation img {
+    width: 32rem;
+    height: 32rem;
+}
+
+.order_confirmation .action_btns {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.action_btns button {
+    border: none;
+    border-radius: 0.6rem;
+    padding: 0.7rem;
+    font-size: 1.5rem;
+    width: 28rem;
+    background: #e54863b8;
+    color: white;
+    cursor: pointer;
+
+}
+
+.action_btns button.homeBtn {
+    width: 15rem;
+}
