@@ -3,8 +3,11 @@ import { useState } from "react";
 import classes from "./UserForm.module.css";
 import Modal from "./Modal";
 import { CheckoutTemplate } from "./ModalTemplate";
+import { useDispatch } from "react-redux";
+import { cartSliceAction } from "../store/cart-slice";
 
-const UserForm = ({setCartItems, setOrderConfirm}) => {    
+const UserForm = ({setOrderConfirm}) => {  
+    const dispatch = useDispatch();  
     const [userFormData, setUserFormData] = useState(null);
     const [modalIsOpen, setModalIsOpen] = useState(false);
  
@@ -23,8 +26,8 @@ const UserForm = ({setCartItems, setOrderConfirm}) => {
     
     const handleNavigateBack = () => {
         setModalIsOpen(false);
-        setCartItems([])
         setOrderConfirm(true);
+        dispatch(cartSliceAction.cleanUpCartItems());
     }
 
     return <>

@@ -7,7 +7,7 @@ export const GADGETS_APPERALS = [
       "title": "Enco Air 2i True Wireless Earbuds",
       "price": 11120,
       "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-      "category": "Gadegts",
+      "category": "Gadgets",
       "image": "/src/assets/images/gadgets/gadget1apperal.jpg",
       "rating": {
         "rate": 4.6,
@@ -30,7 +30,7 @@ export const GADGETS_APPERALS = [
       "title": "Silicone iPhone 15 Mobiles",
       "price": 9900,
       "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-      "category": "Gadegts",
+      "category": "Gadgets",
       "image": "/src/assets/images/gadgets/gadget2apperal.jpg",
       "rating": {
         "rate": 3.9,
@@ -53,7 +53,7 @@ export const GADGETS_APPERALS = [
       "title": "Bluetooth Smartwatch with Fast Charge",
       "price": 8900,
       "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-      "category": "Gadegts",
+      "category": "Gadgets",
       "image": "/src/assets/images/gadgets/gadget3apperal.jpg",
       "rating": {
         "rate": 3.8,
@@ -76,7 +76,7 @@ export const GADGETS_APPERALS = [
       "title": "Apple sets",
       "price": 17600,
       "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-      "category": "Gadegts",
+      "category": "Gadgets",
       "image": "/src/assets/images/gadgets/gadget4apperal.jpg",
       "rating": {
         "rate": 4.9,
@@ -99,7 +99,7 @@ export const GADGETS_APPERALS = [
         "title": "Apple MacBook Air Laptop",
         "price": 62550,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget5apperal.jpg",
         "rating": {
           "rate": 5,
@@ -122,7 +122,7 @@ export const GADGETS_APPERALS = [
         "title": "Metallic Design Smartwatch and Sunglass",
         "price": 10999,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget6apperal.jpg",
         "rating": {
           "rate": 4.7,
@@ -145,7 +145,7 @@ export const GADGETS_APPERALS = [
         "title": "Silicone iPhone 13 Mobile",
         "price": 15000,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget7apperal.jpg",
         "rating": {
           "rate": 4.8,
@@ -168,7 +168,7 @@ export const GADGETS_APPERALS = [
         "title": "Buds Pro Bluetooth Wireless Earbuds",
         "price": 49999,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget8apperal.jpg",
         "rating": {
           "rate": 2.5,
@@ -192,7 +192,7 @@ export const GADGETS_APPERALS = [
         "title": "Canon Mirrorless Camera (Black)",
         "price": 65000,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget9apperal.jpg",
         "rating": {
           "rate": 4.2,
@@ -215,7 +215,7 @@ export const GADGETS_APPERALS = [
         "title": "Watch Series 9 Aluminium Sport Band",
         "price": 13490,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget10apperal.jpg",
         "rating": {
           "rate": 3.9,
@@ -238,7 +238,7 @@ export const GADGETS_APPERALS = [
         "title": "White Keyboard",
         "price": 8650,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget11apperal.jpg",
         "rating": {
           "rate": 3.7,
@@ -261,7 +261,7 @@ export const GADGETS_APPERALS = [
         "title": "Vintage Twin Bell Table Alarm Clock",
         "price": 10999,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget12apperal.jpg",
         "rating": {
           "rate": 4.5,
@@ -283,7 +283,7 @@ export const GADGETS_APPERALS = [
         "title": "Samsung 43-inches Full HD TV (Black)",
         "price": 19800,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget13apperal.jpg",
         "rating": {
           "rate": 3.4,
@@ -305,7 +305,7 @@ export const GADGETS_APPERALS = [
         "title": "Walkman (Silver)",
         "price": 17500,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget14apperal.jpg",
         "rating": {
           "rate": 4.4,
@@ -327,7 +327,7 @@ export const GADGETS_APPERALS = [
         "title": "Canon EOS Mirrorless Camera (Silver)",
         "price": 18000,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget15apperal.jpg",
         "rating": {
           "rate": 4.8,
@@ -349,7 +349,7 @@ export const GADGETS_APPERALS = [
         "title": "Wireless bluetooth mouse",
         "price": 13500,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget16apperal.jpg",
         "rating": {
           "rate": 4.0,
@@ -371,7 +371,7 @@ export const GADGETS_APPERALS = [
         "title": "Alexa(White)",
         "price": 25000,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget17apperal.jpg",
         "rating": {
           "rate": 4.2,
@@ -395,7 +395,7 @@ export const GADGETS_APPERALS = [
         "title": "Keychain",
         "price": 30000,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget18apperal.jpg",
         "rating": {
           "rate": 4.7,
@@ -419,7 +419,7 @@ export const GADGETS_APPERALS = [
         "title": "Video game remote",
         "price": 40500,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget19apperal.jpg",
         "rating": {
           "rate": 4.4,
@@ -443,7 +443,7 @@ export const GADGETS_APPERALS = [
         "title": "Set of 2 cables",
         "price": 2500,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget20apperal.jpg",
         "rating": {
           "rate": 4.0,
@@ -467,7 +467,7 @@ export const GADGETS_APPERALS = [
         "title": "Set of 2 LED bulbs",
         "price": 15000,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be available",
-        "category": "Gadegts",
+        "category": "Gadgets",
         "image": "/src/assets/images/gadgets/gadget21apperal.jpg",
         "rating": {
           "rate": 1.9,

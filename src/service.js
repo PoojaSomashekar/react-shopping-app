@@ -13,7 +13,7 @@ import gadgetImg from "/src/assets/images/category-slide/gadget-shopping.jpg";
 import bagsImg from "/src/assets/images/category-slide/bags-shopping.jpg";
 import cosmeticsImg from "/src/assets/images/category-slide/cosmetic-shopping.jpg";
 
-export const categoriesSizeNotAvailable = ['Gadgets', 'Bags', 'Cosmetics'];
+export const categoriesSizeNotAvailable = ['Jwellery','Gadgets', 'Bags', 'Cosmetics'];
 
 export const sizes = [{id:'size-1', size:'S'},{id:'size-2', size:'M'},{id:'size-3', size:'L'},{id:'size-4', size:'XL'},{id:'size-5', size:'XXL'}];
 

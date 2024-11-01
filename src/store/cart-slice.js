@@ -145,6 +145,10 @@ export const cartSlice = createSlice({
       }
     },
 
+    cleanUpCartItems(state) {
+      state.cartItems = [];
+    },
+
     handleQuantityInc(state, action) {
       state.cartItems.forEach((item) => {
         if(action.payload.isCategoriesSizeAvailable === false){

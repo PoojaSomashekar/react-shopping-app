@@ -14,7 +14,7 @@ export const BAGS_APPERALS = [
       },
       "reviews":[
         {name: "Harshitha", review: "A very good design."},
-        {name: "Sukanya", review: "Jwellery design is good."},
+        {name: "Sukanya", review: "Bag design is good."},
         {name: "Samantha", review: "I love this design."},
         {name: "Sheetal", review: "Just awesomeeeeee."},
         {name: "Brundha", review: "Totally worth it."},
@@ -28,15 +28,15 @@ export const BAGS_APPERALS = [
       "title": "Set of 2 PU Half Moon Sling Bag",
       "price": 990,
       "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be availabl",
-      "category": "Jwellery",
+      "category": "Bags",
       "image": "/src/assets/images/bags-apperal/bag2apperal.jpg",
       "rating": {
         "rate": 3.9,
         "count": 70
       },
       "reviews":[
-        {name: "Mansi", review: "Few stones in jwellery were missing, disappointed!!!."},
-        {name: "Lalitha", review: "Jwellery design is ok ok."},
+        {name: "Mansi", review: "Few stones in Bags were missing, disappointed!!!."},
+        {name: "Lalitha", review: "Bags design is ok ok."},
         {name: "Neethu", review: "Satisfaction."},
         {name: "Pranathi", review: "Just ok ok."},
         {name: "Chaitra", review: "Good one, i liked it!!"},
@@ -50,7 +50,7 @@ export const BAGS_APPERALS = [
       "title": "Silver PU Half Moon Sling Bag",
       "price": 890,
       "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be availabl",
-      "category": "Jwellery",
+      "category": "Bags",
       "image": "/src/assets/images/bags-apperal/bag3apperal.jpg",
       "rating": {
         "rate": 3.8,
@@ -61,8 +61,8 @@ export const BAGS_APPERALS = [
         {name: "Rukmini", review: "I recieved damaged dress."},
         {name: "Ranjitha", review: "Satisfaction."},
         {name: "Arathi", review: "Dress color fades away after one wash."},
-        {name: "Dia", review: "Jwellery design is ok ok"},
-        {name: "Bhavya", review: "Few stones in jwellery were missing, disappointed!!!."},
+        {name: "Dia", review: "Bags design is ok ok"},
+        {name: "Bhavya", review: "Few stones in Bags were missing, disappointed!!!."},
       ],
     },
     {
@@ -72,7 +72,7 @@ export const BAGS_APPERALS = [
       "title": "Bucket Sling Bag",
       "price": 760,
       "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be availabl",
-      "category": "Jwellery",
+      "category": "Bags",
       "image": "/src/assets/images/bags-apperal/bag4apperal.jpg",
       "rating": {
         "rate": 4.9,
@@ -83,7 +83,7 @@ export const BAGS_APPERALS = [
         {name: "Nancy", review: "Dress material quality is soft and good."},
         {name: "Deeksha", review: "Color little different as shown in the image so for that I gave 4 otherwise 5."},
         {name: "Samitha", review: "Totally worth buying this jwelles, i loved it."},
-        {name: "Madhu Kumari", review: "Jwellery is perfect"},
+        {name: "Madhu Kumari", review: "Bags is perfect"},
         {name: "Nayana", review: "I love this design and my mother also liked it."},
       ],
     },
@@ -94,7 +94,7 @@ export const BAGS_APPERALS = [
         "title": "Orlando Satchel",
         "price": 1150,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be availabl",
-        "category": "Jwellery",
+        "category": "Bags",
         "image": "/src/assets/images/bags-apperal/bag5apperal.jpg",
         "rating": {
           "rate": 5,
@@ -116,7 +116,7 @@ export const BAGS_APPERALS = [
         "title": "Orlando Satchel",
         "price": 1099,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be availabl",
-        "category": "Jwellery",
+        "category": "Bags",
         "image": "/src/assets/images/bags-apperal/bag6apperal.jpg",
         "rating": {
           "rate": 4.7,
@@ -138,7 +138,7 @@ export const BAGS_APPERALS = [
         "title": "Black laptop bag",
         "price": 1500,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be availabl",
-        "category": "Jwellery",
+        "category": "Bags",
         "image": "/src/assets/images/bags-apperal/bag7apperal.jpg",
         "rating": {
           "rate": 4.8,
@@ -160,7 +160,7 @@ export const BAGS_APPERALS = [
         "title": "PU Shoulder Bag Handbags",
         "price": 499,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be availabl",
-        "category": "Jwellery",
+        "category": "Bags",
         "image": "/src/assets/images/bags-apperal/bag8apperal.jpg",
         "rating": {
           "rate": 2.5,
@@ -183,7 +183,7 @@ export const BAGS_APPERALS = [
         "title": "PU Shoulder Bag Handbags",
         "price": 650,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be availabl",
-        "category": "Jwellery",
+        "category": "Bags",
         "image": "/src/assets/images/bags-apperal/bag9apperal.jpg",
         "rating": {
           "rate": 4.2,
@@ -205,7 +205,7 @@ export const BAGS_APPERALS = [
        "title": "PU Structured Sling Bag",
         "price": 1349,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be availabl",
-        "category": "Jwellery",
+        "category": "Bags",
         "image": "/src/assets/images/bags-apperal/bag10apperal.jpg",
         "rating": {
           "rate": 3.9,
@@ -227,7 +227,7 @@ export const BAGS_APPERALS = [
         "title": "PU Shoulder Bag Handbags",
         "price": 865,
         "description": "100% Original Products,Pay on delivery might be available,Easy 14 days returns and exchanges,Try & Buy might be availabl",
-        "category": "Jwellery",
+        "category": "Bags",
         "image": "/src/assets/images/bags-apperal/bag11apperal.jpg",
         "rating": {
           "rate": 3.7,

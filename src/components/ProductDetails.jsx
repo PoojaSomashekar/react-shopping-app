@@ -22,7 +22,7 @@ const ProductDetails = () => {
   useEffect(() => {
     if(location.state.productItem){
      const sizeExist = categoriesSizeNotAvailable.includes(location.state.productItem.category);
-     setIsCategorySizeNotAvailable(!sizeExist);
+     setIsCategorySizeNotAvailable(sizeExist);
     }
     setProductItem(location.state.productItem);
   }, [location.state.productItem]);
