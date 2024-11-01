@@ -1,5 +1,7 @@
 # React + Vite
 
+Here is the CodeSandBox URL - https://9hk96j-5173.csb.app/ 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
